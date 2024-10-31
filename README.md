@@ -1,4 +1,4 @@
-# ExpNo:10 Implementation of Classical Planning Algorithm
+# ExpNo: 10 Implementation of Classical Planning Algorithm
 ### Name: Mario Viofer J
 ### Register Number: 212223100032
 # Algorithm or Steps Involved:
